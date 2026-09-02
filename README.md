@@ -1,6 +1,11 @@
 # Hi, I'm Sushanth Koyalakonda 👋
 
-I'm a fourth-year B.Tech student in Mathematics & Computing at Manipal Institute of Technology, focused on building reliable backend systems and preparing for Software Engineering / SDE roles.
+#### B.Tech Mathematics & Computing
+Manipal Institute of Technology, Manipal
+
+---
+
+I'm a fourth-year B.Tech student, focused on building reliable backend systems and preparing for Software Engineering / SDE roles.
 
 I enjoy working with APIs, databases, real-time communication, asynchronous processing, caching, and scalable backend architecture.
 
@@ -44,7 +49,7 @@ I enjoy working with APIs, databases, real-time communication, asynchronous proc
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Real-Time Chat Platform with AI Summarization
 
